@@ -1,0 +1,15 @@
+{
+    "name": "admin/github",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Github\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nichollas Tenório",
+            "email": "nichollas.tenorio.sj@gmail.com"
+        }
+    ],
+    "require": {}
+}
